@@ -53,3 +53,5 @@ print(x,"+",y,"*",z,hasil)
 #kurung akan mengambil langkah paling pertama
 hasil = (x+y)*z
 print ("(",x,"+",y,")""*",z,"=",hasil)
+
+print("check")
